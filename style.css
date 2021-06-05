@@ -23,6 +23,10 @@ body {
 	padding: 40px 10px;
 }
 
+#pic {
+	margin-bottom: 30px;
+}
+
 @media screen and (min-width: 1024px){
   #main {
   	font-size: 36px;
